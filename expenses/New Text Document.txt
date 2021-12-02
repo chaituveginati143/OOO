@@ -1,0 +1,3 @@
+Install java in linux vm 
+download tomact cat server 
+download jenkins
